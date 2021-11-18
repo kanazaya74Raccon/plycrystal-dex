@@ -1,0 +1,615 @@
+{
+  "name": "ApeSwap Default List",
+  "timestamp": "2021-06-20T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 2
+  },
+  "tags": {},
+  "keywords": ["apeswap", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Matic",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 137
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "anyBNB",
+      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Aave (PoS)",
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Banana Token",
+      "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+      "symbol": "BANANA",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "PolyCrystal",
+      "address": "0x76bF0C28e604CC3fE9967c83b3C3F31c213cfE64",
+      "symbol": "CRYSTL",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Curve",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "JDIToken",
+      "symbol": "JDI",
+      "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "Fish",
+      "symbol": "FISH",
+      "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "Test USD Coin",
+      "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
+      "symbol": "tUSDC",
+      "decimals": 18,
+      "chainId": 80001
+    },
+    {
+      "name": "Test Tether USD",
+      "address": "0x3fe4c0de72ef1b25e146aaa2c836df365e21dfd6",
+      "symbol": "tUSDT",
+      "decimals": 18,
+      "chainId": 80001
+    },
+    {
+      "name": "Test Dai Token",
+      "symbol": "tDAI",
+      "address": "0x7ab920bb77d89cea9932b9dee8c644e3f39a2e22",
+      "chainId": 80001,
+      "decimals": 18
+    },
+    {
+      "name": "PolyYeld Token",
+      "symbol": "YELD",
+      "address": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "ToolApe",
+      "symbol": "TAPE",
+      "address": "0xf98f70c265093a3b3adbef84ddc29eace900685b",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "Poly Roll",
+      "symbol": "ROLL",
+      "address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "POLYDOGE",
+      "symbol": "POLYDOGE",
+      "address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "SNX",
+      "symbol": "SNX",
+      "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "OMEN",
+      "symbol": "OMEN",
+      "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "TAKO",
+      "symbol": "TAKO",
+      "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "HONOR",
+      "symbol": "HONOR",
+      "address": "0xb82a20b4522680951f11c94c54b8800c1c237693",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "BSCGIRL",
+      "symbol": "BSCGIRL",
+      "address": "0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2",
+      "chainId": 137,
+      "decimals": 8
+    },
+    {
+      "name": "BPUL",
+      "symbol": "BPUL",
+      "address": "0x68f044B59D96ec856aC72C29Df997348c8C1fFf3",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "COSMIC",
+      "symbol": "COSMIC",
+      "address": "0xa5eb60ca85898f8b26e18ff7c7e43623ccba772c",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "MANA",
+      "symbol": "MANA",
+      "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "SPADE",
+      "symbol": "SPADE",
+      "address": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "NEPTUNE",
+      "symbol": "NEPTUNE",
+      "address": "0x4527d831cefc76d0e5f8699f8ff4494611a6bf31",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PIRATEP",
+      "symbol": "PIRATEP",
+      "address": "0x3750144AcD56CC1d3e8dAFD8a187Ad10d174d462",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "SOL",
+      "symbol": "SOL",
+      "address": "0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "TEABAG",
+      "symbol": "TEABAG",
+      "address": "0xFA8F10950EAF53449c77E47A0c68C1996CC28Eb1",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PWINGS",
+      "symbol": "PWINGS",
+      "address": "0x845e76a8691423fbc4ecb8dd77556cb61c09ee25",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "XDO",
+      "symbol": "XDO",
+      "address": "0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "XUSD",
+      "symbol": "XUSD",
+      "address": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PEAR",
+      "symbol": "PEAR",
+      "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "GOON",
+      "symbol": "GOON",
+      "address": "0x50D74B93b2D970A2d727A43F490742051d93401B",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PHOENIX",
+      "symbol": "PHX",
+      "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "HAM",
+      "symbol": "HAM",
+      "address": "0xEC2C9383926361d17Bb8a45ad97e1648e9dd6641",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "BARBERSHOP",
+      "symbol": "HAIR",
+      "address": "0x100a947f51fa3f1dcdf97f3ae507a72603cae63c",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "WAND",
+      "symbol": "WAND",
+      "address": "0x85f94ca53de6deafb171ca8fc1f019f91952777c",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "SINGULAR",
+      "symbol": "SING",
+      "address": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "TIMELAP",
+      "symbol": "TIME",
+      "address": "0x5c59D7Cb794471a9633391c4927ADe06B8787a90",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "IRIS",
+      "symbol": "IRIS",
+      "address": "0xdaB35042e63E93Cc8556c9bAE482E5415B5Ac4B1",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "AES",
+      "symbol": "AES",
+      "address": "0x5ac3ceee2c3e6790cadd6707deb2e87ea83b0631",
+      "chainId": 137,
+      "decimals": 9
+    },
+    {
+      "name": "SANDMAN",
+      "symbol": "SANDMAN",
+      "address": "0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "POLYQUOKKA",
+      "symbol": "QUOKK",
+      "address": "0x9469603F3Efbcf17e4A5868d81C701BDbD222555",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "SX NETWORK",
+      "symbol": "SX",
+      "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "NALIS",
+      "symbol": "NALIS",
+      "address": "0x04f2e3ec0642e501220f32fcd9e26e77924929a9",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "KAVIAN",
+      "symbol": "KAVIAN",
+      "address": "0xc4df0e37e4ad3e5c6d1df12d3ca7feb9d2b67104",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "KOMMUNITAS",
+      "symbol": "KOM",
+      "address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+      "chainId": 137,
+      "decimals": 8
+    },
+    {
+      "name": "GPUL",
+      "symbol": "GPUL",
+      "address": "0x40ed0565ecfb14ebcdfe972624ff2364933a8ce3",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "GBNT",
+      "symbol": "GBNT",
+      "address": "0x8c9aaca6e712e2193acccbac1a024e09fb226e51",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "INKU",
+      "symbol": "INKU",
+      "address": "0x1dd9e9e142f3f84d90af1a9f2cb617c7e08420a4",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "ARABLELANDS",
+      "symbol": "ARABLELANDS",
+      "address": "0x31af84e6aeea05d8494b4136224dc9584c6c6166",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "POLYGAS",
+      "symbol": "POLYGAS",
+      "address": "0x840b5fc8c6dee2b1140174a3abdc215190426ccf",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "UNIQ",
+      "symbol": "UNIQ",
+      "address": "0x42c3d84e4e465263c85dfcf304ec3571b4332c46",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "GRAND",
+      "symbol": "GRAND",
+      "address": "0xbcf339df10d78f2b44aa760ead0f715a7a7d7269",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PQBERT",
+      "symbol": "PQBERT",
+      "address": "0x40038c83e459937a988b669f1159cc78d8fdad68",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "DOGIRA",
+      "symbol": "DOGIRA",
+      "address": "0xdda40cdfe4a0090f42ff49f264a831402adb801a",
+      "chainId": 137,
+      "decimals": 9
+    },
+    {
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "LIBRA",
+      "symbol": "LIBRA",
+      "address": "0x2f535ae1a9f6405e9e6e2ff10fded846358a5c39",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PBREW",
+      "symbol": "PBREW",
+      "address": "0xb5106A3277718eCaD2F20aB6b86Ce0Fee7A21F09",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "BABYQUICK",
+      "symbol": "BABYQUICK",
+      "address": "0x9a05d1ff699ea187dc8523e333ed63503f0d82db",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "COLLAR",
+      "symbol": "COLLAR",
+      "address": "0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PROTO",
+      "symbol": "PROTO",
+      "address": "0x673e064ecb5889ef163ec3c3ea693b8f74bbc95d",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "AZUKI",
+      "symbol": "AZUKI",
+      "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "AXS",
+      "symbol": "AXS",
+      "address": "0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "DOKI",
+      "symbol": "DOKI",
+      "address": "0x5c7f7fe4766fe8f0fa9b41e2e4194d939488ff1c",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "E8",
+      "symbol": "E8",
+      "address": "0x08e175a1eac9744a0f1ccaeb8f669af6a2bda3ce",
+      "chainId": 137,
+      "decimals": 9
+    },
+    {
+      "name": "CHICK",
+      "symbol": "CHICK",
+      "address": "0x9e725cf7265d12fd5f59499aff1258ca92cac74d",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "EGG",
+      "symbol": "EGG",
+      "address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PAW",
+      "symbol": "PAW",
+      "address": "0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "UST",
+      "symbol": "UST",
+      "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "QUICK",
+      "symbol": "QUICK",
+      "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "PAUTO",
+      "symbol": "PAUTO",
+      "address": "0x7f426f6dc648e50464a0392e60e1bb465a67e9cf",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "DINO",
+      "symbol": "DINO",
+      "address": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "FOUR",
+      "symbol": "FOUR",
+      "address": "0x48cbc913de09317df2365e6827df50da083701d5",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "BLU",
+      "symbol": "BLU",
+      "address": "0xAd290B32ffB0886CCbF933A6307BF795A44C99e0",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "FRM",
+      "symbol": "FRM",
+      "address": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "FRMX",
+      "symbol": "FRMX",
+      "address": "0x00e197ac4735f1d6a0a2f0df3947e6ed86d09260",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "DESTRUCTION",
+      "symbol": "DESTRUCTION",
+      "address": "0xCa4992F01B63C7cEB98505946b79D7D8855449F9",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "name": "RELAY",
+      "symbol": "RELAY",
+      "address": "0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d",
+      "chainId": 137,
+      "decimals": 18
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+.yalc
+yalc.lock
+.eslintcache
+
+# env files
+.env
+.env.*
+
+# vercel
+.vercel
+
+# compiled source
+build
+
+# ide
+.vscode
+
+# macOS Finder temp
+**/.DS_Store
